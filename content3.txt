@@ -1,0 +1,1 @@
+This is the sample 3 in content3.txt
